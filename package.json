@@ -1,0 +1,20 @@
+{
+  "name": "open_ai_hex",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "echo \"No build specified\" && exit 1",
+    "test": "echo \"No test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northmsaad/open_ai_hex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northmsaad/open_ai_hex/issues"
+  },
+  "homepage": "https://github.com/northmsaad/open_ai_hex#readme"
+}
